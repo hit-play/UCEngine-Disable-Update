@@ -1,0 +1,1 @@
+Disable-ScheduledTask -TaskPath '\Microsoft\Skype' -TaskName 'NightlyReboot'
